@@ -31,7 +31,7 @@ sidebar:
       - idiom: Русский
         level: Professional
 
-      - idiom: Украинский
+      - idiom: Українська
         level: Professional
 
       - idiom: English
@@ -39,11 +39,11 @@ sidebar:
 
 
     interests:
-      - item: Велосипед
-        link:
+      - item: bicycle
+        #link:
 
-      - item: Туризм
-        link:
+      - item: hiking
+        #link:
       
 
 career-profile:
@@ -64,10 +64,11 @@ education:
       details: |
         
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
+    - role: .Net developer
+      time: 2020 - Present
+      company: Temabit, Fozzy group
+      details: 
+        projects: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -79,9 +80,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: .Net developer
+      time: 2019 - 2020
+      company: ДТЭК Сервис
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -90,9 +91,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Главный специалист отдела инженерной инфраструктуры
+      time: 2011 - 2019
+      company: ДТЭК Сервис
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -159,13 +160,10 @@ skills:
       - name: WinForms
       - name: WebAPI
       - name: WebForms
-      - name: Javascript 
-        #level: 98%
-
       - name: Angular
-        #level: 98%
-
+      - name: Javascript 
       - name: HTML5 & CSS
+      - name: git, tfs
         #level: 95%
 
       
